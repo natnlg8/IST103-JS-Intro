@@ -14,8 +14,8 @@ function clickHeading(){
     alert("Heading is beign clicked")
 }
 
-let name="Steven"
-let age=27
+let name="Natalia"
+let age=19
 let student=false
 let france=undefined
 let english=null
